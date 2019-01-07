@@ -1,2 +1,2 @@
 # MKS21X-FinalProject
-Minuk Kim_ PD 4
+Final Project: Minuk Kim and Chris choi https://github.com/ChrisChoi123/MKS21X-FinalProject
